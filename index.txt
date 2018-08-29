@@ -3,5 +3,6 @@
 </head>
 <body>
 <p>My first changes</p>
+<p>Added code by dev1</p>
 </body>
 </html>
